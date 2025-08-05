@@ -1,7 +1,3 @@
-Awesome! Based on the `HR_Analytics.csv` dataset and your Power BI file `HR Analytics Dashboard.pbix`, here's a clean and professional `README.md` tailored for GitHub:
-
----
-
 ## 👥 HR Analytics Dashboard
 
 This repository features a Power BI dashboard that analyzes human resource data to provide insights into workforce trends, performance, and employee retention.
