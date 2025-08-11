@@ -50,4 +50,4 @@ The **E-Commerce Sales Dashboard** provides insights into:
 
 ### 📷 Preview
 
-![image](https://github.com/user-attachments/assets/a7929981-d66d-453b-9abd-e2048ac2652c)
+![image](https://github.com/VipranshOjha/PowerBI-Dashboards/blob/main/E-Commerce-Sales-Dashboard/Dashboard%20Preview.png)
