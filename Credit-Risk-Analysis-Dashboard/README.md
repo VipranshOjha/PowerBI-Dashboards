@@ -52,4 +52,4 @@ The **Credit Risk Analysis Dashboard** helps financial institutions, analysts, a
 
 ![image](https://github.com/VipranshOjha/PowerBI-Dashboards/blob/main/Credit-Risk-Analysis-Dashboard/src/Credit%20Risk%20Analysis%20Preview.png)
 
-![image]
+![image](https://github.com/VipranshOjha/PowerBI-Dashboards/blob/main/Credit-Risk-Analysis-Dashboard/src/Loans%20Availed%20in%202007%20Preview.png)
